@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/tasteReactJs/static/js/main.1e91469b.js",
+    "main.js": "/tasteReactJs/static/js/main.d7de7b6f.js",
     "index.html": "/tasteReactJs/index.html",
-    "main.1e91469b.js.map": "/tasteReactJs/static/js/main.1e91469b.js.map"
+    "main.d7de7b6f.js.map": "/tasteReactJs/static/js/main.d7de7b6f.js.map"
   },
   "entrypoints": [
-    "static/js/main.1e91469b.js"
+    "static/js/main.d7de7b6f.js"
   ]
 }
